@@ -36,8 +36,8 @@
    - Adds a dynamic and engaging visual element to enhance the user experience.
 
 ---
-![ShakeBeat App Screenshot](![image](https://github.com/user-attachments/assets/7205db6e-8753-4cbf-9da6-779589fb4769)
-)
+![ShakeBeat App Screenshot](https://github.com/user-attachments/assets/7205db6e-8753-4cbf-9da6-779589fb4769)
+
 
 ## Code Example 💻  
 
